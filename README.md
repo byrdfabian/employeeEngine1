@@ -11,6 +11,7 @@ I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 
 ## Demo Video of Application
+Demonstration Screencastify link: https://drive.google.com/file/d/1s3yxfAwzg6IqlzB7ZxuRfhf6Bn_PHzrp/view
 
 ## Technologies Used
 * inquirer: https://www.npmjs.com/package/inquirer
